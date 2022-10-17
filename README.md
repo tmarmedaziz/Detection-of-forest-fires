@@ -1,1 +1,1 @@
-# Fetection-of-forest-fires
+# Detection-of-forest-fires
